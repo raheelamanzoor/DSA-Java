@@ -1,3 +1,4 @@
+package Basics;
 import java.util.*;
 public class AllPrime{
     public static void main (String[] args){

@@ -1,3 +1,4 @@
+package Basics;
 import java.util.*;
 public class FibonacciNo {
     public static void main(String[] args){

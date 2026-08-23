@@ -1,3 +1,4 @@
+package Basics;
 import java.util.Scanner;
 public class PrimeNo{
     public static void main (String[] args){

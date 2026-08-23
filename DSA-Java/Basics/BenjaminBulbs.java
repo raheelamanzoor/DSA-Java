@@ -1,3 +1,4 @@
+package Basics;
 import java.util.*;
 public class BenjaminBulbs {
     public static void main(String[] args){
