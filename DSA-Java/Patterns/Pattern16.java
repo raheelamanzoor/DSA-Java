@@ -25,14 +25,15 @@ public class Pattern16 {
                 val--;
             }
             for (int j=1; j<=st; j++)
-               {
+            {
                 val--;
                 System.out.print(val + "\t");
-               }
-               st++;
-               sp-=2;
-               System.out.println();
+            }
+            st++;
+            sp-=2;
+            System.out.println();
         }
+
     }
     
 }
