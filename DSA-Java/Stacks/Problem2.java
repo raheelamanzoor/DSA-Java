@@ -1,6 +1,6 @@
 package Stacks;
 import java.util.*;
-public class DuplicateBrackets {
+public class Problem2 {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
         String str = scn.nextLine();
